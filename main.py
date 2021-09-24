@@ -33,4 +33,4 @@ async def on_message(message):
     await message.channel.send('i am fine thank you ask!!')
 
 keep_alive()
-client.run('ODkwNjUzNDg3ODIwNTc0NzQx.YUy7sw.Eu_5dNTWDMytjePpzgSX_zFsiGs')
+client.run('Your bot TOKEN')
